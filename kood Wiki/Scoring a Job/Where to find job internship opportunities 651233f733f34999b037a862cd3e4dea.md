@@ -1,0 +1,19 @@
+# Where to find job/internship opportunities
+
+Updated: March 19, 2025 3:04 PM
+
+# 💼 Where to look for internships/job opportunities
+
+- Take a look at the **#work-and-internships channel** in kood/Jõhvi’s Discord (under INFO BOARD), where opportunities are also constantly shared! This includes job opportunities, internships, and other projects - all that give you valuable experience 🌟
+- Participate in **kood/Jõhvi events** for students 🎉📚This is a great opportunity for you to meet people from our partner companies, form a connection and even get recruited. For example, a kood/Jõhvi student got an internship offer when participating in Java workshop by Proekspert and today he is a valuable junior developer in the company. Further, several kood/Jõhvi students got internships at LHV by networking at [kood/JobFair](https://app.notion.com/p/kood-JobFair-2024-0b0bfd9da093430ba9f4207c018d1d7b?pvs=21).
+- Personal **network** 🌐 let your friends and acquaintances know you’re looking for a job and be  **active on LinkedIn** (see how to level up your LinkedIn [here](Applying%20GitHub,%20LinkedIn,%20CV,%20Cover%20Letter%20585d0f97d8204855ba026e5b57d0895f.md)). Contacts are important because you can hear about job opportunities even before their public, and even before the position is created. Plus you will have more people who will vouch for you in different companies.
+- **Job Portals**: for IT jobs, the best place is [LinkedIn](https://www.linkedin.com/feed/), and not only strictly for checking out the jobs, but also if you follow they companies you’re interested in a lot of them post when their internship programmes open etc. In terms of job boards also check out [CV-Online](https://cv.ee/en?gad=1&gclid=Cj0KCQjwusunBhCYARIsAFBsUP9trMtoxWI9uqzihg_hSkExh-U7aOeNQOeM5JOSwrosx8_-CJRgqxYaAu4PEALw_wcB&lang=en), [CVKeskus](https://www.cvkeskus.ee/?gclid=Cj0KCQjwusunBhCYARIsAFBsUP8BWIiJDuUDOfkriHyU5NTzMTXUpkPupGzb6jMZzbBUPB5hZyeQtZkaAlznEALw_wcB), [Töötukassa](https://www.tootukassa.ee/en/joboffers), and [work in Estonia](https://workinestonia.com/job/?_gl=1*m3yrl4*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw1um-BhDtARIsABjU5x7CRQaOlwZoAOidx6RZxkUqHP5S-rKY3LORt79CDi0sx7010xMncJsaAhqPEALw_wcB)
+- Relevant Slack channels, Facebook groups, other **virtual communities**
+- **Networking and industry events** - especially the ones organised by companies you’re interested in. These are usually free and give you simple access to talk to recruiters and ask directly what makes a good candidate in that specific company. To see events that are happening check out [MeetUp](https://www.meetup.com/home/?suggested=true&source=EVENTS), [Eventbrite](https://www.eventbrite.com/), and [Fienta](https://fienta.com/et).
+- If you would like to be contacted by recruiters then make sure you do and **share the certificates you complete on LinkedIn** - some of our students have been contacted by recruiters once they have started doing this!
+
+❗IMPORTANT: Keep your goals in mind, but be open to opportunities! Take into account that **you are starting a career in a new field** and the job market for junior positions can be quite competitive, plus there are not many junior positions in the current market. 
+
+I**t’s much easier to build your career within the company, maybe even just start doing more technical tasks at your current job or move to a technical position within your organisation**. 
+
+In any case, when in doubt, apply, because you have nothing to lose - worst case scenario you get more experienced with the application process 💪 Also the position/company might turn out to be better than they advertise! ✨
